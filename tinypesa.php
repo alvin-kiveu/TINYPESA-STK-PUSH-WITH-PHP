@@ -1,7 +1,7 @@
 <?php
-$amount = '5';
-$phonenuber = '0768168060';
-$Account_no = 'UMESKIA SOFTWARES';
+$amount = '1'; //Amount to transact 
+$phonenuber = '07xxxxxxx'; // Phone number paying
+$Account_no = 'UMESKIA SOFTWARES'; // Enter account number optional
 $url = 'https://tinypesa.com/api/v1/express/initialize';
 $data = array(
     'amount' => $amount,
@@ -10,7 +10,7 @@ $data = array(
 );
 $headers = array(
     'Content-Type: application/x-www-form-urlencoded',
-    'ApiKey: nEa87QEAdme'
+    'ApiKey: xxxxxxxxxx' // Replace with your api key
  );
 $info = http_build_query($data);
 
