@@ -16,10 +16,10 @@ $MpesaReceiptNumber = $callbackContent->Body->stkCallback->CallbackMetadata->Ite
 $PhoneNumber = $callbackContent->Body->stkCallback->CallbackMetadata->Item[4]->Value;
 
 if ($ResultCode == 0) {
-    $servername = "localhost";
-    $username = "umeskias_umeskia_user";
-    $password = "1qbejxBr%blT";
-    $dbname = "umeskias_umskiasoftwares";
+    $servername = "host";
+    $username = "host username";
+    $password = "host passwoRd";
+    $dbname = "database name";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
