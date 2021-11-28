@@ -1,0 +1,37 @@
+{
+    "Body": {
+        "stkCallback": {
+            "MerchantRequestID": "99214-5443294-1",
+            "CheckoutRequestID": "ws_CO_22112021205451979328",
+            "ResultCode": 0,
+            "ResultDesc": "The service request is processed successfully.",
+            "CallbackMetadata": {
+                "Item": [
+                    {
+                        "Name": "Amount",
+                        "Value": 10
+                    },
+                    {
+                        "Name": "MpesaReceiptNumber",
+                        "Value": "PKM01ZWAX4"
+                    },
+                    {
+                        "Name": "Balance"
+                    },
+                    {
+                        "Name": "TransactionDate",
+                        "Value": 20211122205500
+                    },
+                    {
+                        "Name": "PhoneNumber",
+                        "Value": 254768168060
+                    }
+                ]
+            },
+            "TinyPesaID": "49207e00-4bbd-11ec-bcf8-1fcbea98e9ef",
+            "ExternalReference": "UMESKIA SOFTWARES",
+            "Amount": 10,
+            "Msisdn": "254768168060"
+        }
+    }
+}
