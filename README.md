@@ -2,6 +2,8 @@
 
 This is a sample implementation of the Mpesa STK Push API using PHP.
 
+you can view worinkg demo [here](https://umeskiasoftwares.com/API/TINYPESA/)
+
 ## Requirements
 
 1. TinyPesa STK Push API requires PHP 7.0 and above.
