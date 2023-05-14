@@ -1,11 +1,12 @@
 
+```ascii
 ___________.___ _______ _____.___._____________________ _________   _____   
 \__    ___/|   |\      \\__  |   |\______   \_   _____//   _____/  /  _  \  
   |    |   |   |/   |   \/   |   | |     ___/|    __)_ \_____  \  /  /_\  \ 
   |    |   |   /    |    \____   | |    |    |        \/        \/    |    \
   |____|   |___\____|__  / ______| |____|   /_______  /_______  /\____|__  /
                        \/\/                         \/        \/         \/ 
-
+```
 This is a sample implementation of the Mpesa STK Push API using PHP.
 
 you can view worinkg demo [here](https://umeskiasoftwares.com/API/TINYPESA/)
